@@ -1,2 +1,0 @@
-# UdacityFullstack-repo
-class
